@@ -30,17 +30,17 @@ class Config(object):
     MESSAGE_DUMP = -1002269563710
 
     # MongoDB configuration
-    MONGO_DB_URI = ""mongodb+srv://ShadowAlive:<210207>@cluster0.dxj3g.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0""
+    MONGO_DB_URI = "mongodb+srv://ShadowAlive:<210207>@cluster0.dxj3g.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 
     # Support chat and support ID
-    SUPPORT_CHAT = ""https://t.me/+NP_dopYLKWo0YTJl""
+    SUPPORT_CHAT = "https://t.me/+NP_dopYLKWo0YTJl"
     SUPPORT_ID = -1002326975317
 
     # Database name
-    DB_NAME = ""ShadowAlive""
+    DB_NAME = "ShadowAlive"
 
     # Bot token
-    TOKEN = ""7202606996:AAFVrm8pn5vK0IDngos-etIo38hmhDnMPVw""  # Get bot token from @BotFather on Telegram
+    TOKEN = "7202606996:AAFVrm8pn5vK0IDngos-etIo38hmhDnMPVw"  # Get bot token from @BotFather on Telegram
 
     # Owner's Telegram user ID (Must be an integer)
     OWNER_ID = 7856842830
