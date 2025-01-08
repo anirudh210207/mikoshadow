@@ -19,31 +19,31 @@ class Config(object):
 
     # <================================================ REQUIRED ======================================================>
     # Telegram API configuration
-    API_ID = 204 # Get this value from my.telegram.org/apps
-    API_HASH = ""
+    API_ID = 27316382 # Get this value from my.telegram.org/apps
+    API_HASH = "a267e971b12a958177464646a7829f15"
 
     # Database configuration (PostgreSQL)
     DATABASE_URL = "postgres:"
 
     # Event logs chat ID and message dump chat ID
-    EVENT_LOGS = -100
-    MESSAGE_DUMP = -100
+    EVENT_LOGS = -1002343145378
+    MESSAGE_DUMP = -1002269563710
 
     # MongoDB configuration
-    MONGO_DB_URI = ""
+    MONGO_DB_URI = ""mongodb+srv://ShadowAlive:<210207>@cluster0.dxj3g.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0""
 
     # Support chat and support ID
-    SUPPORT_CHAT = ""
-    SUPPORT_ID = -100
+    SUPPORT_CHAT = ""https://t.me/+NP_dopYLKWo0YTJl""
+    SUPPORT_ID = -1002326975317
 
     # Database name
-    DB_NAME = ""
+    DB_NAME = ""ShadowAlive""
 
     # Bot token
-    TOKEN = ""  # Get bot token from @BotFather on Telegram
+    TOKEN = ""7202606996:AAFVrm8pn5vK0IDngos-etIo38hmhDnMPVw""  # Get bot token from @BotFather on Telegram
 
     # Owner's Telegram user ID (Must be an integer)
-    OWNER_ID = 5907205317
+    OWNER_ID = 7856842830
     # <=======================================================================================================>
 
     # <================================================ OPTIONAL ======================================================>
